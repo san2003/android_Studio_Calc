@@ -38,7 +38,7 @@ public class MainAcivity extends AppCompatActivity {
         buttonAdd = (Button) findViewById(R.id.buttonadd);
         buttonSub = (Button) findViewById(R.id.buttonsub);
         buttonMul = (Button) findViewById(R.id.buttonmul);
-        buttonDivision = (Button) findViewById(R.id.buttondiv);
+        buttonDivision = (Button) findViewById(R.id.buttondiv); //
         buttonC = (Button) findViewById(R.id.buttonC);
         buttonEqual = (Button) findViewById(R.id.buttoneql);
         crunchifyEditText = (EditText) findViewById(R.id.edt1);
